@@ -37,7 +37,6 @@ class App extends React.Component{
     render() {
         return (
             <div>
-                Github User Card
                 <UserCard user={this.state.user} />
                 <Followers followers={this.state.followers}/>
             </div>

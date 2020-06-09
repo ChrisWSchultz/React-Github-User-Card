@@ -1,5 +1,7 @@
 import React from "react";
 
+import './UserAvatar.css'
+
 
 class UserAvatar extends React.Component {
     constructor(props) {

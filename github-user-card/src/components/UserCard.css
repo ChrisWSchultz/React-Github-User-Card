@@ -1,0 +1,11 @@
+.user-card {
+    display: flex;
+}
+
+.avatar {
+    margin: 15px;
+}
+
+.info {
+    margin: 15px;
+}

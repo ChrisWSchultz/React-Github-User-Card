@@ -1,0 +1,14 @@
+.follower {
+    margin: 15px;
+}
+
+.follower img {
+    border-radius: 15px;
+    object-fit: cover;
+    width: 150px;
+    height: 150px;
+}
+
+.follower-wrapper {
+    display: flex;
+}
